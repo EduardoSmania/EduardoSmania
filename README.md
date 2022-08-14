@@ -8,4 +8,13 @@
 - -C/C++
 - Python
 - PHP / HTML
-- JavaScript
+- JavaScript]
+
+
+
+
+<div align="center">
+  <a href="https://github.com/EduardoSmania">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoSmania&show_icons=false&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSmania&layout=compact&langs_count=7&theme=onedark"/>
+</div>
