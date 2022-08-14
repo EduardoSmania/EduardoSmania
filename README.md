@@ -1,4 +1,4 @@
-### Welcome to my GitHub 🌐 
+### Hey, I'm Edu. 🌐 
 
 - 🇧🇷 I'm Brazilian.
 - 🏁I started learning programming in 2021.
