@@ -1,4 +1,4 @@
-### Hey, I'm Edu. 🌐 
+### Hi, I'm Edu. 🌐 
 
 - 🇧🇷 I'm Brazilian.
 - 🏁I started learning programming in 2021.
