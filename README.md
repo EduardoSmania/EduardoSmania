@@ -1,16 +1,11 @@
-### Hi there 👋
+### Olá, eu sou o Edu! 👋
+- 🇧🇷Eu sou brasileiro. 
+- 🏁Comecei a aprender programação em 2021.
+- 💻Minha primeira linguagem de programação foi Python, mas não programo mais nela.
+- 🎲Curiosidade, eu adoro jogar jogos de ritmo e ouvir músicas lofi.
 
-<!--
-**EduardoSmania/EduardoSmania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Quais línguas eu codifico?💻
+- -C/C++
+- Python
+- PHP / HTML
+- JavaScript
