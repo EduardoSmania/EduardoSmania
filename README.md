@@ -5,13 +5,7 @@
 - 💻My first programming language was Python.
 
   <summary>💬 Contacts</summary>
-   </br> <img align="left" alt="Discord" target="blank" width="20px" src="https://cdn.discordapp.com/attachments/757025688975966229/1008505326515007669/a713ef217f3790b55e6023e9819a6549.png"
-   <string>PeterALENDA#8397</string>
-   </br> <img align="left" alt="Discord" target="blank" width="20px" src="https://cdn.discordapp.com/attachments/757025688975966229/1008501058999427173/4014997006191726-t640-removebg-preview.png"
    <string>Peterpro830@gmail.com</string>
-</details> 
-
-<br/>
 
 <div align="center">
   <a href="https://github.com/EduardoSmania">
